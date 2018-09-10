@@ -1,0 +1,5 @@
+<TextView
+         android:text="Happy Birthday to my dearest friend!!"
+         android:background="@android:color/darker_grey"
+         android:layout_width="300dp"
+         android:layout_height="680dp"/>
